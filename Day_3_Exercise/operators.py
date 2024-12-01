@@ -148,7 +148,6 @@ print(f"You have lived for {(years * 60 * 60 * 24 * 365)}")
 #23
 
 for i in range(1,6):
-    row = []
     for j in range(5):
         print(i ** j ,end=" ")
     print()
